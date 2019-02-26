@@ -6,5 +6,5 @@ I added a HTML file to the repository.
 v1.1 - OH
 I added a CSS file to the repository.
 
-v1.1 - OH
+v1.2 - OH
 I uploaded a modified HTML file that links to the CSS file.
